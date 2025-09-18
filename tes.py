@@ -32,5 +32,6 @@ def sample():
         except ValueError:
             print("Invalid Input")
             break
+    return
 
 sample()
