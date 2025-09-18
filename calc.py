@@ -1,8 +1,4 @@
-
-#Match functio
-# 
-# 
-
+#Match function
 def matchcalc():
 
     print("This function was made using match case")
