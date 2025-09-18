@@ -26,5 +26,6 @@ def matchcalc():
             print("Match quotient", mquotient)
     return(fN, sN, op)
 
+#Prevents the function from automatically running within the main file
 if __name__ == "__main__":
     print("calcModule")

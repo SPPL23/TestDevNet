@@ -21,5 +21,6 @@ def dictempCalc():
 
     return(con_Table, con_Units, tem_Val)
 
+#Prevents the function from automatically running within the main file
 if __name__ == "__main__":
     print("TempModule")
